@@ -1,0 +1,2 @@
+# generics
+Go generics
