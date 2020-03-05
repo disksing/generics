@@ -1,6 +1,6 @@
 # generics
 
-Go generics implementation.
+Generics support for Go.
 
 [![GoDoc](https://godoc.org/github.com/disksing/generics?status.svg)](https://godoc.org/github.com/disksing/generics)
 [![Build Status](https://travis-ci.com/disksing/generics.svg?branch=master)](https://travis-ci.com/disksing/generics)
